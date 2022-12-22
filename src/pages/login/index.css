@@ -1,0 +1,23 @@
+#login{
+    position:absolute;
+    background-image: url(http://localhost:3000/1.jpg);
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#card{
+    position: absolute;
+    top:50%;left:50%;
+    transform:translate(-50%,-50%);
+    height: 400px;
+    width:500px;
+}
+#loginview{
+    position:fixed;
+    top:50%;left:50%;
+    transform:translate(-50%,-23%);
+    height: 80%;
+    width:80%;
+}
